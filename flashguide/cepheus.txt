@@ -1,0 +1,27 @@
+Device: Xiaomi Mi 9 (cepheus)
+
+First Time Install (Note: These releases does not include firmware)
+
+Download link for Recoveries IMGs 
+• https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/Legacy/OrangeFox-R11.3_2_Legacy-Unofficial-cepheus.img/download
+
+• Download provided recovery & rom
+• Reboot to bootloader
+• fastboot flash recovery OrangeFox-R11.3_2_Legacy-Unofficial-cepheus.img
+• Reboot to recovery (Power + Vol Up)
+• While in recovery, copy the ROM to device, flash the rom. after done flashing, navigate to Wipe -> select dalvik / ART Cache, Cache, Metadata and Data, swipe to wipe. 
+• After done wipe, navigate to Format Data section, type "yes" to format data. 
+• Reboot to system
+
+Dirty Flash (when updating your infinity x version)
+
+• Method 1 
+• Reboot to recovery
+• Apply update -> adb sideload
+• adb sideload romname.zip
+• Reboot
+• Method 2 
+• Use OrangeFox-R11.3_2_Legacy recovery
+• Select the ROM & flash it. 
+• Method 3
+• simply just update via ota updater in settings or via updater select local update. 
