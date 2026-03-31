@@ -1,5 +1,4 @@
 - Source Changelog (https://t.me/ProjectInfinityX/1829)
 
-- Device changes:
-- Use own updater link
-- Fixed several overlay issues
+Device changes:
+- Initial release.
