@@ -1,4 +1,9 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1829)
+- Release Date: 1 Apr 2026
 
-Device changes:
-- Initial release.
+  Device changes:
+- Fixed A2DP Bluetooth Audio not working (Thanks HASSAN for reporting) 
+- Remove DT2W function for now 
+- Switch KernelSU to legacy-susfs-v2 
+
+  Notes: 
+- Device Tree for cepheus still WIP, which might be not suitable for daily usage. 
