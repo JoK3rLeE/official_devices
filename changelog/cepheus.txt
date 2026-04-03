@@ -1,10 +1,12 @@
-Release Date: 2 Apr 2026
+Release Date: 3 Apr 2026
 
- ATTENTION FOR GAPPS USER: 
- 31st March build user DO NOT download the update, the link is for vanilla users. 
- Manually download latest build (1st Apr 2026) build will fix the download link for future updates. 
+Source changelog:
+- https://t.me/ProjectInfinityX/1847
 
- Device changes:
-- Fixed A2DP Bluetooth Audio not working (Thanks HASSAN for reporting) 
-- Remove DT2W function for now 
-- Switch KernelSU to legacy-susfs-v2 
+Device changes:
+- Completely remove DT2W, Double tap function. 
+- Switch to priv-keys to sign build. 
+
+Notice: 
+- Please manually flash the ROMs thru adb sideload or TWRP/OFOX recovery.
+(Updater will not work due to different keys) 
