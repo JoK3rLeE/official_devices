@@ -1,3 +1,4 @@
 - 10 June 2026 -
 
-Sync with latest Infinity-X sources.
+Source Changelog:
+• https://t.me/ProjectInfinityX/1882
