@@ -1,5 +1,3 @@
-Release Date: 19 May 2026
+- 10 June 2026 -
 
-Device changelog :
-- bug fixes & stability improvement. 
-- bring back Vanilla build updates for China users. 
+Sync with latest Infinity-X sources.

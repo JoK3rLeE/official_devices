@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-cepheus-19.05.2026-VANILLA-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/vanilla/Project_Infinity-X-3.10-cepheus-19.05.2026-VANILLA-UNOFFICIAL.zip",
-			"timestamp": 1779198299,
-			"md5": "179916d5c1ee7d1e1cc676f70665574e",
-			"size": 1970731560,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-cepheus-10.06.2026-VANILLA-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/vanilla/Project_Infinity-X-3.11-cepheus-10.06.2026-VANILLA-UNOFFICIAL.zip",
+			"timestamp": 1781103003,
+			"md5": "6e56708d922aa5e5ef5b5b42ab2cf647",
+			"size": 1991226006,
+			"version": "3.11"
 		}
 	]
 }
