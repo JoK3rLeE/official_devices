@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-cepheus-10.06.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/gapps/Project_Infinity-X-3.11-cepheus-10.06.2026-GAPPS-UNOFFICIAL.zip",
-			"timestamp": 1781101602,
-			"md5": "72ae77cfac060fb5fb82245570143e7f",
-			"size": 2386082772,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-cepheus-05.07.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/gapps/Project_Infinity-X-3.12-cepheus-05.07.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1783264495,
+			"md5": "018831d6aa6b2dc0fad7008b2caed89b",
+			"size": 2417832621,
+			"version": "3.12"
 		}
 	]
 }
