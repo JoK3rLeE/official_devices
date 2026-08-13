@@ -1,8 +1,5 @@
-- 6th July 2026 -
+- 13th Aug 2026 -
 
-Goodbye Android 16.
-
- Changelog: 
- https://t.me/ProjectInfinityX/1886
+ Upstream Infinity-X source to August security patch 
  
- Device source had no changes. 
+ Update KSUNext + SuSFS to latest version. 
