@@ -1,5 +1,5 @@
-- 13th Aug 2026 -
+- 4 th Oct 2026 -
 
- Upstream Infinity-X source to August security patch 
- 
- Update KSUNext + SuSFS to latest version. 
+ - Initial release Android 17 Infinity-X 4.0
+  Note: Infinity-X 4.0 for cepheus still in BETA stage, 
+  use at your own risks. I will not responsible for any damage. 
