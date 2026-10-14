@@ -1,5 +1,15 @@
-- 4 th Oct 2026 -
+- 14 th Oct 2026 -
 
- - Initial release Android 17 Infinity-X 4.0
-  Note: Infinity-X 4.0 for cepheus still in BETA stage, 
-  use at your own risks. I will not responsible for any damage. 
+ - First Infinity-X 4.1 OTA update for cepheus. 
+
+Source changes: 
+ - https://t.me/ProjectInfinityX/2017
+
+Device Changes: 
+ - Upstream KSU Next to v3.4.2 
+ - Fixup! several issues with KSU Next & SuSFS 
+ - Optimize and clean up kernel for better backport compatibility. 
+ - Implement UAPI v5
+ - Added ADB shell protections
+ 
+
