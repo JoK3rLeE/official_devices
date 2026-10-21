@@ -1,15 +1,10 @@
-- 14 th Oct 2026 -
-
- - First Infinity-X 4.1 OTA update for cepheus. 
+- 21 Oct 2026 - 
 
 Source changes: 
- - https://t.me/ProjectInfinityX/2017
-
-Device Changes: 
- - Upstream KSU Next to v3.4.2 
- - Fixup! several issues with KSU Next & SuSFS 
- - Optimize and clean up kernel for better backport compatibility. 
- - Implement UAPI v5
- - Added ADB shell protections
+ - Synced latest changes 
  
+Device Changes: 
+ - Fix some performance issues 
+ - Remove problematic prop 
+ - Use latest kernel changes 
 
